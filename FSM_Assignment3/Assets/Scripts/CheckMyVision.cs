@@ -67,8 +67,6 @@ public class CheckMyVision : MonoBehaviour
             {
                 return true;
             }
-            
-                
         }
         return false;
     }
